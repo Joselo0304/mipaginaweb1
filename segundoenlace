@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Cosas importantes que no podemos olvidar en Html </title>
+</head>
+<body>
+    <h1> Como funciona </h1>
+    <p> HTML se basa en el uso de etiquetas (tags), que se definen de la siguiente manera: <XXX> es el inicio de una etiqueta y </XXX> es el cierre. Las letras de la etiqueta pueden ser mayúsculas o minúsculas. 
+    </p>
+
+
+
+    <h2> Estrucutra de una pagina web </h2>
+    <p>  La estructura HTML de una página web se compone de las etiquetas  <!<//html//>. <//head> y <//body>. <//html> indica el comienzo de la página,
+            <//head> contiene información descriptiva del sitio y <//>/body> conforma los elementos visibles de la página</p>
+            
+            <h3>
+                Historia de Html 
+            </h3>
+            <p>  Tim Berners-Lee, uno de los inventores de la World Wide Web, creó HTML a principios de la década de los 90. 
+                Su objetivo era crear un lenguaje estándar para que los científicos pudieran compartir sus investigaciones con sus colegas. 
+            </p>
+            
+
+            <h4>
+                Ventajas De Html5
+            </h4>
+            <p>
+                HTML5 soporta multimedia y funcionalidades interactivas. Las etiquetas descriptivas ayudan a que las páginas se posicionen mejor en los buscadores. También permiten incluir elementos complejos, como mapas o dibujos 3D.
+            </p>
+
+
+
+            <p><b> Gracias Por Leer Esto </b></p>
+                
+</body>
+</html>
