@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Joseweb </title>
+</head>
+<body>
+    <h1> Que Es Html </h1>
+    <p> 
+        HTML, que significa Hypertext Markup Language (Lenguaje de Marcado de Hipertexto en español), 
+        es el estándar principal para
+        la creación de páginas web y aplicaciones en la web
+        HTML proporciona la estructbásica para los documentos web,
+        permitiendo a los desarrolladores definir el contenido y 
+        la estructura de una página 
+        mediante una serie de etiquetas y atributos.</p>
+
+        <h2> Componentes Claves de HTML </h2>
+        <ol>
+            <li>  Etiquetas  (Tags) </li>
+            <p>   Las etiquetas HTML están rodeadas por corchetes angulares (< y >).
+                Las etiquetas suelen venir en pares: una etiqueta de apertura y una etiqueta de cierre. Por ejemplo:
+
+                <p>  es la etiqueta de apertura para un párrafo.
+                </p> es la etiqueta de cierre para el párrafo. </p>
+
+
+                <h2> Atributos: </h2>
+                <p> 
+                    Las etiquetas HTML pueden tener atributos que proporcionan información adicional sobre el elemento.
+                    Los atributos se escriben en la etiqueta de apertura. Por ejemplo:
+                    <img src="imagen.jpg" alt="Descripción de la imagen"> utiliza el atributo src para especificar la ubicación de la imagen y el atributo alt para proporcionar una descripción alternativa.
+
+                    <h2> Elementos : </h2>
+                    <p>  Un elemento HTML es una etiqueta de apertura, el contenido y una etiqueta de cierre. Por ejemplo, en el caso de un párrafo:
+
+                    </p>
+
+                    <h2> Estructura Básica de un Documento HTML: </h2>
+                    <ol> 
+                        <li> <!DOCTYPE// html>: Declara el tipo de documento y la versión de HTML.</li>
+
+                        <li> <//>/html//>//: Etiqueta raíz que contiene todo el contenido del documento.</li>
+
+                        <li> <//head>: Contiene metadatos sobre el documento, como el título y enlaces a hojas de estilo.</li>
+
+                        <li> <//body>//: Contiene el contenido visible de la página, como textos, imágenes y enlaces. </li>
+
+
+                    </ol>
+
+                    <h3> Funcionalidades de HTM </h3> 
+                    <ol>
+
+                        <li>  Estructuración de Contenidos: Permite definir títulos, párrafos, listas, tablas, y otros tipos de contenido estructurado. </li>
+                        <li>  Enlaces: Permite crear enlaces a otras páginas web o recursos en la web usando la etiqueta <//a>. </li>
+                        <li>  Imágenes: Permite incrustar imágenes en una página usando la etiqueta <//img>. </li>
+                        <li>  Formularios: Permite crear formularios para la entrada de datos del usuario usando etiquetas como <//form>, <//input>, <//textarea>, etc.</li>
+                    </ol>
+
+                    <h4> Uso De Html </h4>
+                    <p>
+                        <ol>
+                            <li>
+                                Creación de Páginas Web: Es la base de cualquier sitio web. Los navegadores web interpretan HTML para mostrar el contenido al usuario.
+                            </li>
+                            <li>
+                                Estructuración de Datos: HTML también se usa para estructurar datos y contenido en aplicaciones web, a menudo combinado con CSS (Cascading Style Sheets) para el diseño visual y JavaScript para la interactividad.
+                            </li>
+                        </ol>
+                    </p>
+
+<p> <b>
+    En resumen, HTML es esencial para el desarrollo web, proporcionando la base sobre la que se construyen y presentan los sitios web. 
+</b></p>
+
+
+
+<a href="https://youtu.be/ELSm-G201Ls?si=k_aFDzI-QTfmzlWj "> Clic Aqui para ver el mejor curso de Html </a>
+
+<p></p>
+
+<a href="https://youtu.be/z95mZVUcJ-E?si=O_i8o55I7yRRAZNL ">Cliq aqui para ver el mejor curso de Javascript</a>
+
+<p></p>
+
+<a href="https://youtu.be/nKPbfIU442g?si=OutAMOsf67hHJH0e ">Cliq aqui para ver el mejor curso de Python </a>
+
+<p></p>
+
+<a href="Enlace2.html"> Clic Aqui - Cosas importantes que no podemos olvidar en Html  </a>
+
+
+</body>
+</html>
